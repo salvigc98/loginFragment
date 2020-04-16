@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RegisterForm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">Tema4-NavegacionFragmentsAvanzada</string>
+    <string name="email">E-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="save">Guardar</string>
+    <string name="phonenumber">Teléfono</string>
+    <string name="name">Nombre</string>
+    <string name="login">Entrar</string>
+    <string name="register">Registrarme</string>
+    <string name="reset_password">Recuperar contraseña</string>
+    <string name="resetemail">Introduce tu email</string>
+    <string name="resetpasswordlbl">Recupera tu contraseña</string>
+    <string name="endmessage">Has Entrado. Bienvenido.</string>
+</resources>
